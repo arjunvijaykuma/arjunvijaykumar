@@ -1,12 +1,13 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I'm an invited visiting student at department of Materials, ETH Zürich. By working here with the complex materials laboratory, I am completing my master's thesis.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Biomaterial Fabrication",
+    
+    "Neutron Shielding in Particle Accelerator - Ion Catcher(Device Design for Radiation Safety)",
+    "Bioprinting",
+    "Nanostructures for gas sensing applications in health and safety (Material Synthesis and Characterization)"
+    
+    
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "Academically, I am pursuing a bachelor’s in mechanical engineering and a master’s in mechanical engineering with a specialization in Product Design; my course work also comprises bioprinting, artificial organ design, tissue engineering and finite element modeling. Previously, I have fabricated a biofilter using natural chemicals of Tagetes erecta (Mexican marigold) and have also been implementing hydrothermal and chemical methods for the synthesis of Nitrogen, Sulphur doped graphene, and graphene oxide."
 }
